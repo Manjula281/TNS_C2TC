@@ -21,7 +21,7 @@ A basic food delivery management application built using core Java (or Servlets/
 - (Optional: Servlets / JSP / JDBC)
 - MySQL or file-based storage
 
-📁 **Folder:** `/food-delivery-system/`
+📁 **Folder:** `/FoodDeliverySystem/`
 
 ---
 
@@ -42,7 +42,7 @@ A Spring Boot-based backend service for managing student placement data. This pr
 - PostgreSQL
 - Maven
 
-📁 **Folder:** `/placement-management-system/`
+📁 **Folder:** `/PlacementService/`
 
 ---
 
